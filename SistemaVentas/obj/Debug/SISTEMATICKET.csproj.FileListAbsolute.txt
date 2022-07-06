@@ -1,0 +1,468 @@
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.AssemblyReference.cache
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CoreCompileInputs.cache
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.pdb
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll.config
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.pdb
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe.config
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.rsp
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe.config
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.rsp
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.AppContext.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Console.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe.config
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.rsp
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.pdb
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.pdb
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CopyComplete
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll.config
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.pdb
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe.config
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.rsp
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe.config
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.rsp
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.AppContext.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Console.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe.config
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.rsp
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.pdb
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.pdb
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.AssemblyReference.cache
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CoreCompileInputs.cache
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CopyComplete
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.dll
+E:\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll.config
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.pdb
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe.config
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.rsp
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe.config
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.rsp
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.AppContext.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Console.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe.config
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.rsp
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.pdb
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.pdb
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.AssemblyReference.cache
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CoreCompileInputs.cache
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CopyComplete
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.dll
+C:\Users\lvilla\Downloads\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.pdb
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll.config
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.pdb
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe.config
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.rsp
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe.config
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.rsp
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.AppContext.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Console.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe.config
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.rsp
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.pdb
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.pdb
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.AssemblyReference.cache
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CoreCompileInputs.cache
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CopyComplete
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll.config
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.pdb
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe.config
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.rsp
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe.config
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.rsp
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.AppContext.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Console.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe.config
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.rsp
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.pdb
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.pdb
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.AssemblyReference.cache
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CoreCompileInputs.cache
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CopyComplete
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Buffers.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Collections.Immutable.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Memory.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Numerics.Vectors.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Reflection.Metadata.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Buffers.xml
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Collections.Immutable.xml
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Memory.xml
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Numerics.Vectors.xml
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Reflection.Metadata.xml
+D:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Buffers.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Collections.Immutable.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Memory.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Numerics.Vectors.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Reflection.Metadata.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Buffers.xml
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Collections.Immutable.xml
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Memory.xml
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Numerics.Vectors.xml
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Reflection.Metadata.xml
+G:\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll.config
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\SistemaVentas.pdb
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.exe.config
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csc.rsp
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.exe.config
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\csi.rsp
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.AppContext.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Console.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.exe.config
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\vbc.rsp
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Buffers.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Collections.Immutable.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Memory.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Numerics.Vectors.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Reflection.Metadata.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaDatos.pdb
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\CapaModelo.pdb
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Buffers.xml
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Collections.Immutable.xml
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Memory.xml
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Numerics.Vectors.xml
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Reflection.Metadata.xml
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.AssemblyReference.cache
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CoreCompileInputs.cache
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CopyComplete
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.dll
+C:\Users\Juan-D Quintero\Downloads\15 de junio (1)\15 de junio\010_VENTAS_WEB_Proyecto\SistemaVentas\obj\Debug\SistemaVentas.pdb
+H:\28 DE JUNIO\SistemaVentas\bin\SistemaVentas.dll.config
+H:\28 DE JUNIO\SistemaVentas\bin\SistemaVentas.dll
+H:\28 DE JUNIO\SistemaVentas\bin\SistemaVentas.pdb
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\csc.exe
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\csc.exe.config
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\csc.rsp
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\csi.exe
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\csi.exe.config
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\csi.rsp
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.AppContext.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Console.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\vbc.exe
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\vbc.exe.config
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\vbc.rsp
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+H:\28 DE JUNIO\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+H:\28 DE JUNIO\SistemaVentas\bin\CapaDatos.dll
+H:\28 DE JUNIO\SistemaVentas\bin\CapaModelo.dll
+H:\28 DE JUNIO\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\28 DE JUNIO\SistemaVentas\bin\System.Buffers.dll
+H:\28 DE JUNIO\SistemaVentas\bin\System.Collections.Immutable.dll
+H:\28 DE JUNIO\SistemaVentas\bin\System.Memory.dll
+H:\28 DE JUNIO\SistemaVentas\bin\System.Numerics.Vectors.dll
+H:\28 DE JUNIO\SistemaVentas\bin\System.Reflection.Metadata.dll
+H:\28 DE JUNIO\SistemaVentas\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\28 DE JUNIO\SistemaVentas\bin\CapaDatos.pdb
+H:\28 DE JUNIO\SistemaVentas\bin\CapaModelo.pdb
+H:\28 DE JUNIO\SistemaVentas\bin\System.Buffers.xml
+H:\28 DE JUNIO\SistemaVentas\bin\System.Collections.Immutable.xml
+H:\28 DE JUNIO\SistemaVentas\bin\System.Memory.xml
+H:\28 DE JUNIO\SistemaVentas\bin\System.Numerics.Vectors.xml
+H:\28 DE JUNIO\SistemaVentas\bin\System.Reflection.Metadata.xml
+H:\28 DE JUNIO\SistemaVentas\bin\System.Runtime.CompilerServices.Unsafe.xml
+H:\28 DE JUNIO\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\28 DE JUNIO\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.AssemblyReference.cache
+H:\28 DE JUNIO\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CoreCompileInputs.cache
+H:\28 DE JUNIO\SistemaVentas\obj\Debug\SISTEMATICKET.csproj.CopyComplete
+H:\28 DE JUNIO\SistemaVentas\obj\Debug\SistemaVentas.dll
+H:\28 DE JUNIO\SistemaVentas\obj\Debug\SistemaVentas.pdb

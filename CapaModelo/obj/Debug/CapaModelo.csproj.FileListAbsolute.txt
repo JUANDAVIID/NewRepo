@@ -1,0 +1,30 @@
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaModelo\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaModelo\obj\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaModelo\obj\Debug\CapaModelo.pdb
+H:\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\CapaModelo\bin\Debug\CapaModelo.dll
+H:\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\CapaModelo\bin\Debug\CapaModelo.pdb
+H:\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+H:\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+H:\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.dll
+H:\010_VENTAS_WEB_Proyecto\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.pdb
+H:\010_VENTAS_WEB_Proyecto\CapaModelo\bin\Debug\CapaModelo.dll
+H:\010_VENTAS_WEB_Proyecto\CapaModelo\bin\Debug\CapaModelo.pdb
+H:\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+H:\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+H:\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.dll
+H:\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.pdb
+E:\010_VENTAS_WEB_Proyecto\CapaModelo\bin\Debug\CapaModelo.dll
+E:\010_VENTAS_WEB_Proyecto\CapaModelo\bin\Debug\CapaModelo.pdb
+E:\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+E:\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+E:\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.dll
+E:\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.pdb
+G:\15 de junio\010_VENTAS_WEB_Proyecto\CapaModelo\bin\Debug\CapaModelo.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\CapaModelo\bin\Debug\CapaModelo.pdb
+G:\15 de junio\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+G:\15 de junio\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+G:\15 de junio\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.dll
+G:\15 de junio\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.pdb
